@@ -29,7 +29,7 @@ body {
   color: #fff;
  font-size: 50px;
  font-style:italic;
- font-family: ;
+ font-family:  ;
  padding: 3px 3px;
  border-radius: 17px;
 }
@@ -114,7 +114,7 @@ header {
 h1 {
   margin-bottom: 32px;
   font-size: 44px;
-  line height:1.1;
+  line-height: 1.1;
   letter-spacing: -1px;
 }
 
@@ -186,7 +186,7 @@ margin-bottom: 24px;
 
 .chair img{
   border-bottom-left-radius: 0%;
-border-bottom-right-radius: 0%;
+border-bottom-right-radius: 0%;                      
 }
 
 .chair-box {
@@ -224,6 +224,7 @@ h3 {
   display: flex;
   justify-content: space-between;
   font-size: 20px;
+  align-items: center;
 }
 
 footer {
